@@ -1,0 +1,1 @@
+This repository demonstrates a common PHP error: "Undefined index" notices.  These occur when trying to access an array element using a key that doesn't exist. The example shows a function that uses a loop to process values from an array. The solution shows multiple ways to handle and prevent this error.
